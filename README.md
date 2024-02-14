@@ -19,5 +19,7 @@ Instructions:
 
 
 Boards used:
-https://www.wemos.cc/en/latest/d1_mini_shield/1_button.html
-https://www.wemos.cc/en/latest/d1/d1_mini.html
+
+Button Shield: https://www.wemos.cc/en/latest/d1_mini_shield/1_button.html
+
+Wemos D1 mini: https://www.wemos.cc/en/latest/d1/d1_mini.html
