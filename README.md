@@ -16,3 +16,8 @@ Instructions:
 
 
 ![image](https://github.com/StaRipper/Wemos-D1-mini-with-Button-Shield-on-Homekit/assets/22976153/2871f31a-4c53-4d8c-91a7-d4a618add1ab)
+
+
+Boards used:
+https://www.wemos.cc/en/latest/d1_mini_shield/1_button.html
+https://www.wemos.cc/en/latest/d1/d1_mini.html
