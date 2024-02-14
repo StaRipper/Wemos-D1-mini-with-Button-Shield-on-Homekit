@@ -2,7 +2,7 @@
 
 Wemos D1 mini with Button Shield on Apple HomeKit as Stateless Programmable Button.
 
-Instaructions:
+Instructions:
 1. Solder the Button Shield to the Wemos D1 Mini board (Used Pins D3, GND, v3.3).
 2. Install Arduino IDE software (Can be installed from Microsoft Store).
 3. Using Arduino IDE software update file wifi_info.h with your WiFi ssid and password.
