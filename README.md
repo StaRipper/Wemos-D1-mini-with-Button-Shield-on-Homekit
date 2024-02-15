@@ -8,7 +8,7 @@ Instructions:
 2. Install Arduino IDE software (Can be installed from Microsoft Store).
 3. Using Arduino IDE software update file wifi_info.h with your WiFi ssid and password.
 4. The HomeKit pairing code is 111-11-111 (It can be changed in my_accessory.c file).
-5. Using Arduino IDE software compile and flash the Wemos D1 Mini by USB.
+5. Using Arduino IDE software compile and flash the Wemos D1 Mini via USB cable.
 6. Open Home App in your Apple device and (+) add accessory --> more options --> A "Stateless Programmable Switch" will be available --> enter code.
 7. The button can be configured in Apple Home App (see picture).
 8. Thats it. Enjoy.  
